@@ -1,0 +1,26 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/build/
+/dist/
+/Testing_Client/build/
+/Testing_Client/dist/
+/Testing_Client/nbproject/private/
+/Testing_Server/build/
+/Testing_Server/dist/
+/Testing_Server/nbproject/private/
+/practica_3/nbproject/private/
+/practica_3/build/
+/practica_3/dist/
+/practica_3.bck/build/
+/practica_3.bck/dist/
+/practica_3.bck/nbproject/private/

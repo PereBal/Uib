@@ -1,0 +1,4 @@
+C = clean
+A = acumular
+e = numero e
+% = porcentaje 

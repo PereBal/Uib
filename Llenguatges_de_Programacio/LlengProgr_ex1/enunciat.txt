@@ -1,0 +1,15 @@
+gestionar contactos en un RAF
+
+Contacto:
+  codigo
+  nombre
+  direccion
+  telefono
+  @
+  edad
+Menu:
+  escritura -> añade contacto
+  lectura -> accede al contacto por codigo
+  modificacion -> modificar campo/s dado un codigo a traves de un menu (es posible modificar 1+ campos)
+  listar todos los campos
+  salir de la app
